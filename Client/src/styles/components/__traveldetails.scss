@@ -1,0 +1,107 @@
+.p1form{
+    text-align: start;
+    font-weight: 500;
+}
+
+.p1div{
+    justify-content:space-between;
+}
+
+.p1sSelect{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+.p1dSelect{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+.p1Add{
+    color: rgb(194, 181, 181);
+    background-color: rgb(56, 45, 45);
+    width: 8.25%;
+    
+    margin-bottom: $off-msize;
+}
+
+.p1Sub{
+    color: rgb(194, 181, 181);
+    background-color: rgb(56, 45, 45);
+    width: 8.25%;
+    
+    margin-bottom: $off-msize;
+
+}
+
+.p1Label{
+    font-weight: 500;
+}
+
+.p1Date{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    padding: $s-size;
+}
+
+.p1Submit{
+    color: rgb(194, 181, 181);
+    background-color: rgb(56, 45, 45);
+    width: 15%;
+    height: 55px;
+    margin-bottom: $off-msize;
+
+}
+.bookbut{
+    color: rgb(194, 181, 181);
+    background-color: rgb(56, 45, 45);
+    width: 15%;
+    height: 55px;
+    margin-bottom: $off-msize;
+
+}
+
+.p1Showdetails{
+    color: rgb(194, 181, 181);
+    background-color: rgb(56, 45, 45);
+    width: 15.25%;
+    
+    margin-bottom: $off-msize;
+}
+
+
+.p1Select{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+.userTrain{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+.tdate{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+
+.trainlist {
+    text-align: center;
+    display: flex;
+    padding: 3px;
+}
+
+.trainlist h4{
+    margin: 20px;
+}

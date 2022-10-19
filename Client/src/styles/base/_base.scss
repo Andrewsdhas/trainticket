@@ -1,0 +1,18 @@
+html{
+    font-size: 70%;
+}
+body{
+    text-align:start;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: $off-msize;
+    background-color:rgba(168, 91, 35, 0.815);
+    color:rgb(18, 27, 26);
+    padding: $xl-size;
+}
+button{
+     cursor:auto ;
+}
+
+button:disabled{
+    cursor: default;
+}
